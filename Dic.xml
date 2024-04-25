@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<RecordInfo>
+  <KeyValueOfStringFieldInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Key>key1</Key>
+    <Value>
+      <FieldName>key1</FieldName>
+      <JapaneseFieldName>キー１</JapaneseFieldName>
+    </Value>
+  </KeyValueOfStringFieldInfo>
+  <KeyValueOfStringFieldInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Key>key2</Key>
+    <Value>
+      <FieldName>key2</FieldName>
+      <JapaneseFieldName>キー２</JapaneseFieldName>
+    </Value>
+  </KeyValueOfStringFieldInfo>
+</RecordInfo>

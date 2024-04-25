@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Class4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Age>1</Age>
+  <Record>
+    <KeyValueOfStringString>
+      <Key>key1</Key>
+      <Value>キー１</Value>
+    </KeyValueOfStringString>
+    <KeyValueOfStringString>
+      <Key>key2</Key>
+      <Value>キー２</Value>
+    </KeyValueOfStringString>
+  </Record>
+  <Record2>
+    <KeyValueOfEnumADouble>
+      <Key>a</Key>
+      <Value>1.1</Value>
+    </KeyValueOfEnumADouble>
+    <KeyValueOfEnumADouble>
+      <Key>b</Key>
+      <Value>1.2</Value>
+    </KeyValueOfEnumADouble>
+  </Record2>
+</Class4>
